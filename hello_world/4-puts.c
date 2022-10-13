@@ -1,7 +1,7 @@
 /*
  *=====================================
  *File: 4-puts.c
- *Author: Harold Garzon 
+ *Author: Harold Garzon
  *<5838@holbertonstudents.com>
  *
  *=====================================
