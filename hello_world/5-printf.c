@@ -16,6 +16,5 @@
 int main(void)
 {
 	printf("With propper grammar, but the outcome is a piece of art,\n");
-
 	return (0);
 }
