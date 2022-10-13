@@ -1,15 +1,11 @@
-/**
- *File name: 6-size.c
- *Author: Harold Garzon
- *
- *Description: main  - prints the size of various
- *types based on the computer it is compiled
- *and run on.
- *
- *Return: Always 0
- */
-
 #include <stdio.h>
+/* Priting the size of various types of files */
+
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Sucess)
+ */
 
 int main(void)
 {
