@@ -10,7 +10,7 @@
  *a new line.
  *
  *Return: Always 0
- */
+*/
 
 #include <stdio.h>
 
