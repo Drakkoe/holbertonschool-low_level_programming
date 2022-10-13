@@ -1,6 +1,5 @@
 #include <stdio.h>
 /**
- *
  * File: 4puts.c
  * Author: Harold Garzon
  * <5838@holbertonstudents.com>
