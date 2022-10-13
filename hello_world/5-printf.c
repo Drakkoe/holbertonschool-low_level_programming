@@ -1,9 +1,7 @@
 #include <stdio.h>
+/* Using printf to display a messagge */
+
 /**
- * File: 5-printf.c
- * Authr: Harold Garzon
- * ID: <5838@holbertonstudents.com
- *
  * main - Entry point
  *
  * Return: Always 0 (Success)
