@@ -6,7 +6,7 @@
  *<5838@holbertonstudents.com>
  *
  *Description:
- *main - prints "Programming
+ *main prints "Programming
  *is like building a multilingual puzzle.
  *Followed by a new line
  *
