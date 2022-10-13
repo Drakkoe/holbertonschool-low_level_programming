@@ -1,4 +1,6 @@
 #include <stdio.h>
+/* Using function puts to print out a message */
+
 /**
  * File: 4puts.c
  * Author: Harold Garzon
