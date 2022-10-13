@@ -2,10 +2,6 @@
 /* Using function puts to print out a message */
 
 /**
- * File: 4puts.c
- * Author: Harold Garzon
- * <5838@holbertonstudents.com>
- *
  * main - Entry point
  *
  * Return: Always 0 (Sucess)
