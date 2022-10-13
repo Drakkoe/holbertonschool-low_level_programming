@@ -1,4 +1,5 @@
-/*
+#include <stdio.h>
+/**
  *=====================================
  *File: 4-puts.c
  *Author: Harold Garzon
@@ -7,7 +8,7 @@
  *=====================================
  *=====================================
  *Description:
- *The function main prints "Programming
+ *main - prints "Programming
  *is like building a multilingual puzzle.
  *Followed by a new line
  *
@@ -15,8 +16,6 @@
  *
  *=====================================
  */
-
-#include <stdio.h>
 
 int main(void)
 {
