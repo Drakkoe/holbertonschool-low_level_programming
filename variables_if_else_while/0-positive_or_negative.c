@@ -2,7 +2,11 @@
 #include <time.h>
 #include <stdio.h>
 /* more headers goes there */
-/* main - Standart Input */
+/*
+ * main - Standart Input
+ *
+ * Return: Always 0 (Sucess)
+*/
 int main(void)
 {
 int n;
