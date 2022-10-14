@@ -4,7 +4,7 @@
 /* more headers goes there */
 /*
  * main - Standart Input
- * int 
+ * int
  * Return: Always 0 (Sucess)
 */
 int main(void)
