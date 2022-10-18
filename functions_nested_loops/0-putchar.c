@@ -1,13 +1,12 @@
-#include 'main.h'
-/* This program prints: _putchar */
+#include "main.h"
 /**
  * main - standard Input
  *
- * Return: Always (0)
+ * Return: Always 0
  */
-
-int main(void);
+int main(void)
 {
+	int _putchar(char c);
 	_putchar(95);
 	_putchar(112);
 	_putchar(117);
