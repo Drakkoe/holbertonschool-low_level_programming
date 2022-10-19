@@ -4,7 +4,7 @@
  *
  * @a: first value to swap
  * @b: second value to swap
- * @i: holds a value to be used later
+ *
  */
 void swap_int(int *a, int *b)
 {
