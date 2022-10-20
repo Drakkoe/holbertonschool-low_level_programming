@@ -3,6 +3,7 @@
 /**
  * _strlen - counts the strign
  *
+ * @s: dirección de un string 
  * Return: Always the lenght of a string
  */
 int _strlen(char *s)
