@@ -4,6 +4,7 @@
  * print_rev - prints a strings in reverse and in a new line
  * @s: the string to be printed
  *
+ *
  * Return: Always 0
  */
 void print_rev(char *s)
@@ -20,5 +21,5 @@ void print_rev(char *s)
 		_putchar(s[l]);
 		l--;
 	}
-	_putchar('\n');
+	putchar('\n');
 }
