@@ -16,11 +16,8 @@ char *_strcat(char *dest, char *src)
 	{
 		count1++;
 	}
-	count2=0;
-	while(src[count2] != '\0')
+	for(count2 = 0; src[count2] != '\0'; count2++, count1++)
 	{
-		count1++;
-		count2++;
 		dest[count1] = src[count2];
 	}
 
