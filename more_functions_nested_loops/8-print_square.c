@@ -2,7 +2,7 @@
 #include <stdio.h>
 /**
  * print_square - check the code
- *
+ * @size: set square size
  * Return: Always 0.
  */
 void print_square(int size)
