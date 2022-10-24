@@ -1,4 +1,4 @@
-#include "main.h"
+u#include "main.h"
 #include <stdio.h>
 /**
  * _strlen - counts the strign
