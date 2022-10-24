@@ -4,6 +4,7 @@
 
 /**
  * rev_string - reverses a string
+ * @s: string to be reversed
  *
  * Return: Always 0.
  */
