@@ -5,23 +5,23 @@
  * _strncat - Also concatenates two strings
  * @dest: firs string
  * @src: second string
- *
+ * @n: largest number of bytes to append
  * Return: Always 0.
  */
 char *_strncat(char *dest, char *src, int n)
 {
-	int count1 = 0;
-	int count2;
+	int i, j;
 
-	count2 = strlen(dest);
-
-	if (src[0] != '\0')
+	i = j = 0;
+	while (*(dest + i))
+		i++;
+	while (j < n && *(src + j))
 	{
-		for (; count1 < n; count1++, count2++)
-		{
-			dest[count1++] = src[count2];
-		}
-		dest[count2 + 1] = '\0';
+		*(dest + i) = *(src + j);
+		i++;
+		j++;
 	}
+	if (j < n)
+		*(dest + i) = *(src + j);
 	return (dest);
 }
