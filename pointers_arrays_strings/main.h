@@ -13,6 +13,7 @@ void reverse_array(int *a, int n);
 void _puts(char *str);
 char *string_toupper(char *);
 int _putchar(char c);
+char *cap_string(char *);
 void print_rev(char *s);
 char *_strcat(char *dest, char *src);
 char *_strncat(char *dest, char *src, int n);
