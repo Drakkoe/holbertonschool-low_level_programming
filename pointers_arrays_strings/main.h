@@ -16,6 +16,7 @@ int _putchar(char c);
 char *cap_string(char *);
 void print_rev(char *s);
 char *_strcat(char *dest, char *src);
+char *leet(char *);
 char *_strncat(char *dest, char *src, int n);
 void rev_string(char *s);
 void puts2(char *str);
